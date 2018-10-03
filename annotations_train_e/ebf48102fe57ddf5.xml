@@ -1,0 +1,51 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>ebf48102fe57ddf5.jpg</filename>
+	<source>
+		<database>OpenImagese</database>
+		<annotation></annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name></name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>/m/01g317</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>17</ymin>
+			<xmax>548</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/06bt6</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>62</ymin>
+			<xmax>594</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/09j2d</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>295</ymin>
+			<xmax>491</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+
+</annotation>

@@ -1,0 +1,81 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>e8f783b0c464827d.jpg</filename>
+	<source>
+		<database>OpenImagese</database>
+		<annotation></annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name></name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>/m/0270h</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>270</ymin>
+			<xmax>471</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/052lwg6</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>303</ymin>
+			<xmax>448</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/052lwg6</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>0</ymin>
+			<xmax>421</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/052lwg6</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>0</ymin>
+			<xmax>755</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/052lwg6</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>409</ymin>
+			<xmax>813</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/052lwg6</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>190</ymin>
+			<xmax>1021</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+
+</annotation>

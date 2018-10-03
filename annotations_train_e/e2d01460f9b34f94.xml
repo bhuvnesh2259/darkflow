@@ -1,0 +1,111 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>e2d01460f9b34f94.jpg</filename>
+	<source>
+		<database>OpenImagese</database>
+		<annotation></annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name></name>
+	</owner>
+	<size>
+		<width>765</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>/m/02dgv</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>407</ymin>
+			<xmax>720</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/03__z0</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>530</ymin>
+			<xmax>423</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/03__z0</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>535</ymin>
+			<xmax>588</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/03__z0</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>546</ymin>
+			<xmax>658</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/07j7r</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>341</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/07j7r</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>0</ymin>
+			<xmax>764</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/0bt_c3</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>533</ymin>
+			<xmax>424</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/0d4v4</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>0</ymin>
+			<xmax>406</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/0d4v4</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>0</ymin>
+			<xmax>728</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+
+</annotation>

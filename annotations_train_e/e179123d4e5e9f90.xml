@@ -1,0 +1,111 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>e179123d4e5e9f90.jpg</filename>
+	<source>
+		<database>OpenImagese</database>
+		<annotation></annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name></name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>/m/01g317</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>61</ymin>
+			<xmax>154</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/01g317</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>229</ymin>
+			<xmax>1023</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/01g317</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>73</ymin>
+			<xmax>310</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/01g317</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>65</ymin>
+			<xmax>653</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/01g317</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>704</xmin>
+			<ymin>93</ymin>
+			<xmax>792</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/01g317</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>100</ymin>
+			<xmax>894</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/0342h</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>146</ymin>
+			<xmax>209</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/0342h</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>127</ymin>
+			<xmax>321</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/0342h</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>177</ymin>
+			<xmax>700</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+
+</annotation>

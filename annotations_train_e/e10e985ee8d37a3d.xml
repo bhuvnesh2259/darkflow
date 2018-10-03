@@ -1,0 +1,121 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>e10e985ee8d37a3d.jpg</filename>
+	<source>
+		<database>OpenImagese</database>
+		<annotation></annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name></name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>/m/02xwb</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>147</ymin>
+			<xmax>782</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/05zsy</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>113</ymin>
+			<xmax>837</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/02xwb</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>140</ymin>
+			<xmax>206</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/02xwb</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>265</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/02xwb</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>0</ymin>
+			<xmax>1020</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/02xwb</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>693</xmin>
+			<ymin>309</ymin>
+			<xmax>1020</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/05zsy</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>133</ymin>
+			<xmax>204</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/05zsy</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>248</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/05zsy</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>0</ymin>
+			<xmax>1020</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/05zsy</name>
+		<truncated>1</truncated>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>305</ymin>
+			<xmax>1023</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+
+</annotation>

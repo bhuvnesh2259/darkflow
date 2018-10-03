@@ -1,0 +1,91 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>e0e715719e23c4df.jpg</filename>
+	<source>
+		<database>OpenImagese</database>
+		<annotation></annotation>
+		<image></image>
+		<flickrid></flickrid>
+	</source>
+	<owner>
+		<flickrid></flickrid>
+		<name></name>
+	</owner>
+	<size>
+		<width>1024</width>
+		<height>737</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object>
+		<name>/m/021mn</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>350</ymin>
+			<xmax>492</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/021mn</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>105</ymin>
+			<xmax>558</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/027pcv</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>119</ymin>
+			<xmax>782</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/027pcv</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>178</ymin>
+			<xmax>792</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/027pcv</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>225</ymin>
+			<xmax>819</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/027pcv</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>772</xmin>
+			<ymin>92</ymin>
+			<xmax>860</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>/m/027pcv</name>
+		<truncated>0</truncated>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>105</ymin>
+			<xmax>886</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+
+</annotation>
